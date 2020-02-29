@@ -1,0 +1,22 @@
+{
+  "name": "svelvet-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "NODE_ENV=production svelvet",
+    "dev": "svelvet"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.10.0",
+    "lodash": "^4.17.15",
+    "svelte": "^3.19.1"
+  },
+  "devDependencies": {
+    "babel-plugin-inline-json-import": "^0.3.2",
+    "svelvet": "^0.3.4"
+  }
+}

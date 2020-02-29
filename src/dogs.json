@@ -1,0 +1,18 @@
+{
+  "Dasher": {"name": "Dasher", "gender": "male", "breed": "Whippet"},
+  "Maisey": {
+    "name": "Maisey",
+    "gender": "female",
+    "breed": "Treeing Walker Coonhound"
+  },
+  "Ramsey": {
+    "name": "Ramsey",
+    "gender": "male",
+    "breed": "Native American Indian Dog"
+  },
+  "Oscar": {
+    "name": "Oscar ",
+    "gender": "male",
+    "breed": "German Shorthaired Pointer"
+  }
+}
