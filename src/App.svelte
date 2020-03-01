@@ -1,6 +1,6 @@
 <script>
-  import _ from '/web_modules/lodash.js';
-  import DateDisplay from './DateDisplay.js';
+  import _ from '/web_modules/lodash';
+  import DateDisplay from './DateDisplay';
   import Foo from './Foo.js';
 
   import dogs from './dogs.json';
