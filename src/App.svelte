@@ -3,8 +3,8 @@
   //import DateDisplay from './DateDisplay';
   //import Foo from './Foo.js';
 
-  import dogs from './dogs.json';
-  console.log('dogs =', dogs);
+  //import dogs from './dogs.json';
+  //console.log('dogs =', dogs);
 
   let name: string = 'Svelvet';
 
@@ -22,13 +22,9 @@
   <input bind:value="{name}" />
 </label>
 
-<!--DateDisplay />
-<Foo /-->
+<!--
+<DateDisplay />
+<Foo />
 
 <div>sum = {sum}</div>
-
-<style>
-  h1 {
-    color: red;
-  }
-</style>
+-->
