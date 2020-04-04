@@ -12,7 +12,7 @@
     return n1 + n2;
   }
 
-  const sum = add(2, '3');
+  const sum: string = add(2, '3');
 </script>
 
 <h1>Hello, {_.startCase(name)}!</h1>

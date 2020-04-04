@@ -4,10 +4,10 @@ module.exports = [
   autoPreprocess({
     typescript: {
       compilerOptions: {
-        target: 'es2019',
-        baseUrl: './src'
+        target: 'es2020',
+        baseUrl: './src',
       },
-      transpileOnly: true
-    }
-  })
+      transpileOnly: true,
+    },
+  }),
 ];
