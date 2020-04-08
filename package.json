@@ -6,6 +6,7 @@
   "scripts": {
     "build": "NODE_ENV=production svelvet",
     "buildp": "NODE_ENV=production svelvet --preprocess preprocess.js",
+    "clean": "rm -rf dist",
     "dev": "svelvet",
     "devp": "svelvet --preprocess preprocess.js",
     "reinstall": "rm -rf node_modules package-lock.json && npm install"
